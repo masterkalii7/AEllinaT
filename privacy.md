@@ -8,12 +8,14 @@ This Privacy Policy applies to the **AEllina Transfer** application (herein refe
 ## 1. Introduction
 AEllina Transfer is a privacy-first, offline, peer-to-peer (P2P) file and chat transfer application. We believe your data belongs only to you. Our core architecture is built to ensure that we do not collect, store, or share your personal data.
 
-## 2. Data Collection and Offline Usage
+## 2. Data Collection, Offline Usage, and Deletion
 **We do not collect or transmit your personal data to any external developer servers.** 
-The core App operates entirely offline over your local network (Wi-Fi, Hotspot, or Wi-Fi Direct). Any data (messages, files, or AEllina IDs) transferred through the App is sent directly between the connected devices.
+The core App operates entirely offline over your local network (Wi-Fi, Hotspot, or Wi-Fi Direct). Any data (messages, files, or AEllina IDs) transferred through the App is sent directly between the connected devices. 
+**Data Deletion on Uninstall:** When you uninstall the App, any data stored in the App's private local storage is permanently deleted by the Android operating system. We do not keep shadow copies or cloud backups (unless manually initiated). Once deleted locally, this data is completely unrecoverable by us.
 
 ## 3. Google Drive Backup & Internet Usage
 The App only uses an active Internet connection if you explicitly choose to backup your data to your personal Google Drive. 
+**Backup Limitations:** Backups are provided on a best-effort basis, primarily for your chat history. There is no guarantee that large received files will be fully backed up or restored. 
 **Your Backup is 100% Safe:** Before any backup is uploaded, it is heavily encrypted on your device using a PIN you create (End-to-End Encryption). Because of this encryption, **neither Google nor the Developer (AEllinaT) can read, open, or access your backup files.**
 
 ## 4. End-to-End Encryption (E2E)
