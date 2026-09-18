@@ -70,11 +70,16 @@ Follow these simple steps to start chatting and sharing files:
     </td>
   </tr>
 </table>
-## ⚠️ Important Note (Data Loss Warning)
-* **Finding Your Files:** All files, images, and videos you receive are securely saved on your device. You can view them directly from your phone's Gallery or File Manager.
-* **App Uninstallation Rule:** Due to Android's strict privacy and scoped storage rules, all received files are stored inside the app's dedicated internal folder. **If you uninstall AEllinaT, all your received files, images, and videos will be PERMANENTLY DELETED by the Android system.** 
-* **How to keep your data safe:** If you ever need to uninstall or reinstall the app, please ensure you **Move or Copy** your received files to a different folder (like your public `Downloads` or `DCIM` folder) using your File Manager *before* uninstalling!
-  
+⚠️ CRITICAL WARNING (Read Before Use)
+
+Please keep these two highly important rules in mind while using AEllinaT:
+
+1. 📱 No Built-in File Viewer 
+   There is no option inside the app to directly open or view the files you receive. To see your received images, videos, or documents, you **must open your phone's Gallery or File Manager app**.
+
+2. **🛑 Data Deletion on Uninstall (No Recovery)** 
+   Due to Android's privacy rules, all received files are saved tightly inside the app's private storage folder. **If you uninstall AEllinaT, ALL your received data will be permanently deleted and CANNOT be recovered.**
+   * **👉 The Solution:** If you ever plan to uninstall the app, you **MUST copy or move** your received files to a different location (like your public `Downloads` or `DCIM` folder) using your File Manager *before* hitting uninstall.
 ## 📥 Download
 [**Download Latest APK Here**](https://github.com/masterkalii7/AEllinaT/releases/latest)
 
