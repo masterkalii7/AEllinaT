@@ -1,10 +1,11 @@
 <h1 align="center">
-  <img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="100"/><br/>
-  AEllina Transfer
+  <img src="screenshots/logo.png" width="100"/><br/>
+  AEllina Transfer (AEllinaT)
 </h1>
 
 <p align="center">
-  <strong>A 100% Offline, Privacy-First P2P File Transfer & Chat App for Android</strong>
+  <strong>A 100% Offline, Privacy-First P2P File Transfer & Chat App for Android.</strong><br>
+  <i>Note: "AEllina Transfer" is officially released under the short name <b>AEllinaT</b>.</i>
 </p>
 
 ## ✨ Features
