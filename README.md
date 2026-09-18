@@ -21,6 +21,11 @@
   <img src="screenshots/chat.png" width="250"/> &nbsp;&nbsp;
   <img src="screenshots/backup.png" width="250"/>
 </p>
+<p align="center">
+  <img src="screenshots/appterminal.png" width="250"/> &nbsp;&nbsp;
+  <img src="screenshots/profile.png" width="250"/> &nbsp;&nbsp;
+  <img src="screenshots/batchtransfer.png" width="250"/>
+</p>
 
 ## 📥 Download
 [**Download Latest APK Here**](https://github.com/masterkalii7/AEllinaT/releases/latest)
