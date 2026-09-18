@@ -40,16 +40,36 @@ Follow these simple steps to start chatting and sharing files:
 * Once connected, click the **`+` (Plus) icon** to start chatting or transferring files securely!
   
 ## 📸 Screenshots
-<p align="center">
-  <img src="screenshots/home.png" width="250"/> &nbsp;&nbsp;
-  <img src="screenshots/chat.png" width="250"/> &nbsp;&nbsp;
-  <img src="screenshots/backup.png" width="250"/>
-</p>
-<p align="center">
-  <img src="screenshots/appterminal.png" width="250"/> &nbsp;&nbsp;
-  <img src="screenshots/profile.png" width="250"/> &nbsp;&nbsp;
-  <img src="screenshots/batchtransfer.png" width="250"/>
-</p>
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td align="center" style="border: none;">
+      <b>Home Screen</b><br>
+      <img src="screenshots/home.png" width="250"/>
+    </td>
+    <td align="center" style="border: none;">
+      <b>Chat Interface</b><br>
+      <img src="screenshots/chat.png" width="250"/>
+    </td>
+    <td align="center" style="border: none;">
+      <b>Cloud Backup</b><br>
+      <img src="screenshots/backup.png" width="250"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border: none;">
+      <b>App Terminal</b><br>
+      <img src="screenshots/appterminal.png" width="250"/>
+    </td>
+    <td align="center" style="border: none;">
+      <b>User Profile</b><br>
+      <img src="screenshots/profile.png" width="250"/>
+    </td>
+    <td align="center" style="border: none;">
+      <b>Batch Transfer</b><br>
+      <img src="screenshots/batchtransfer.png" width="250"/>
+    </td>
+  </tr>
+</table>
 
 ## 📥 Download
 [**Download Latest APK Here**](https://github.com/masterkalii7/AEllinaT/releases/latest)
