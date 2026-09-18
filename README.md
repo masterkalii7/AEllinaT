@@ -12,7 +12,7 @@
 * **🚀 Completely Offline:** Transfer files and chat without any active internet connection using Wi-Fi Direct/Hotspot.
 * **🔒 Privacy First:** No tracking, no analytics, no external servers. Your data stays on your device.
 * **⚡ High-Speed Transfer:** Built on raw TCP connections for maximum speed.
-* **☁️ E2E Encrypted Backup:** Backup your data to your personal Google Drive with military-grade End-to-End Encryption (Argon2id + AES-GCM). Google can't read your backups, and neither can we.
+* **☁️ E2E Encrypted Backup:** Backup your data to your personal Google Drive with military-grade End-to-End Encryption. Google can't read your backups, and neither can we.
 * **📱 Clean UI:** Material Design 3 and Jetpack Compose.
 
 ## 📸 Screenshots
